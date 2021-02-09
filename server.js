@@ -49,7 +49,7 @@
 
 	*/ 
 		
-		cycle: '04:20:00'
+		cycle: ['10','60']
 	}, function (ot) {
 	  
 	post();
