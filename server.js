@@ -21,7 +21,7 @@
 
 	*/
 
-	var tweet = ['12:22 AM']; 
+	var tweet = ['Test']; 
 
 
 	var post = function () {
